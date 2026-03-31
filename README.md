@@ -2,4 +2,8 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Meu nome é Arthur Bradley Barroca, tenho 18 anos e sou de Brasília. Concluí o ensino médio no Colégio Visão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UniCEUB. Sempre gostei da área de tecnológica, principalmente as automações e jogos. gosto bastande de jogos online, esportes e tecnologia em geral, por isso a escolha por cursar ADS.
+Arthur Bradley Barroca
+Brasília — DF | 18 anos
+Estudante de Análise e Desenvolvimento de Sistemas no UniCEUB.
+Formado no Ensino Médio pelo Colégio Visão.
+Apaixonado por tecnologia, automações e desenvolvimento de jogos. Busco constantemente aprender e criar soluções inovadoras através da programação.
